@@ -1,3 +1,5 @@
+Currently following a tutorial to become familiar with React.  Will change into personal website later.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
